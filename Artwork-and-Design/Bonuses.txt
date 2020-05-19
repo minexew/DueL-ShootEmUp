@@ -1,0 +1,31 @@
+
+Boss 1:
+-0.3s Weapon Reload Time	(+0.4)
++15   Weapon Damage		(-10)
++25   Health			(-20)
+
+Boss 2:
+
+Weapon Upgrade
++30 Damage / +0.5s Reload Time
+
+Armor Upgrade
++50 Health / -10 Weapon Damage
+
+Weapon Speed Upgrade
+-1s Weapon Reload Time / -30 Health
+
+Boss 3:
+
+Secondary Skill: Shadow Protection
+Invulnerable for 10 secs.
+Press <Shift> to use (once per level)
+
+Secondary Skill: Shadow Power
+200% Damage for 5 secs.
+Press <Shift> to use (once per level)
+
+Secondary Skill: Shadow Bolt
+Shoots a Shadow Bolt causing 100 damage to all enemies hit.
+Press <Shift> to use (once per level)
+

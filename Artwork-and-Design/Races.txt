@@ -1,0 +1,5 @@
+name ---- colour -- weapon -----
+Zilxxol   red       rocket
+Rodonashi orange    beam
+Salikotha green     poison gas
+Drosiwei  black     darkness :)

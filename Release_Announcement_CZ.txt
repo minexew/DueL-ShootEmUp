@@ -1,0 +1,29 @@
+
+DueL: Shoot 'em up [OpenSource] [Akční/Arkáda]
+
+[size=50]Minexew Games Presents:[/size]
+[b][color=#FF0000][size=150]DueL: Shoot 'em up![/size][/color][/b]
+
+[u][b]Co že to je?[/b][/u]
+Třetí pokračování bezhlavé střílečky je tu! Tentokrát je tvým úkolem prostřílet se 12ti úrovněmi s několika bossy, jejihž jedinou touhou je rozemlít tě na prach. Postup je jednoduchý - nemilosrdně pálit do všeho co se pohne.
+
+[u][b]Proč to zkusit?[/b][/u]
+[list][*]12 úrovní ve čtyřech různých prostředích
+[*]4 druhy nepřátel + 5 bossů
+[*]Propracovaná AI se čtyřmi různými způsoby uhýbání
+[*]Roztomilá vektorová grafika doplněná ohromným množstvím particle efektů
+[*]Jednoduchý úkol, jednoduché ovládání, nemilosrdná obtížnost (snad)
+[*]jednoduchy systém upgradování sám sebe[/list]
+
+[u][b]Release Notes:[/b][/u]
+hra bohužel nakonec neni tak akční jak by se vám/mě líbilo (původně neměla bejt akční vůbec, tak buďte rádí :D )
+Hra je samozřejmě open-source. (včetně DLLka napsaného v C)
+Pište co se líbí, nelíbí, hlavně grafika + ovládání, ať vim co příště udělat líp/jinak! 
+Jestli se vám 12 levelů zdá málo, tak se těšte na pokračování, které by s trochou štěstí mohlo vyjít letos
+(na 4ce se usilovně pracuje tak se těšte!)
+
+Ovládání: šipky + myš (vy už si nějak poradíte...)
+
+[b][size=150]Binary + Source download: [url=http://rejpakisland.ic.cz/games/duel3/MinexewGames-DueL3.rar]TU[/url][/size][/b]
+
+[u][b]Skrýn šoty:[/b][/u]
